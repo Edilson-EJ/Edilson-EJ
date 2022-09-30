@@ -1,7 +1,7 @@
 ### Olá! Me chamo Edilson De França 👋
 
 
-- 🔭 Estou em busca da minha primeira oportunidade para desenvolvedor front end
+- 🔭 Estou em busca da minha primeira oportunidade na area de desevolvimento Front-End
 
 <div align="center">
   <a href="https://github.com/Edilson-EJ">
@@ -25,6 +25,7 @@
   <img align="center" alt="Ts" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
    <img align="center" alt="ts" height="30" width="100" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="React" height="30" width="100" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="React" height="30" width="100" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
  
 
 ## Pretendo aprender no futuro 📖
@@ -42,7 +43,7 @@
 
   <a href="https://instagram.com/edilson_melo05" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@6146" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:edilson.franca.melo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:edilson.franca.melo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/edilson-de-fran%C3%A7a-melo-j%C3%BAnior-466a03209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
