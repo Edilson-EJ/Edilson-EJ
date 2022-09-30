@@ -1,7 +1,7 @@
 ### Olá! Me chamo Edilson De França 👋
 
 
-- 🔭 Estou em busca da minha primeira oportunidade para desevolverdo Front-End
+- 🔭 Estou em busca da minha primeira oportunidade para desenvolvedor front end
 
 <div align="center">
   <a href="https://github.com/Edilson-EJ">
