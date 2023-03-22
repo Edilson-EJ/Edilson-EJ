@@ -2,6 +2,8 @@
 
 
 - 🔭 Estou em busca da minha primeira oportunidade na area de desevolvimento Front-End
+- Análise e desenvolvimento de sistemas
+- Estou me formando em Análise e desenvolvimento de sistemas, e estou em busca da minha primeira oportunidade de emprego na área de desenvolvimento , no momento estou estudando desenvolvimento web e tenho conhecimento em Html5, Css3 e JavaScript e a biblioteca React, onde faço alguns projetos pessoais para me aperfeiçoa e treina meus conhecimentos ,faço parte do programa Oracle Next Education da Oracle em parceria com a Alura, e nele estou tendo a oportunidade aprende Java e o framework Spring para o desenvolvimento Back-end.
 
 <div align="center">
   <a href="https://github.com/Edilson-EJ">
