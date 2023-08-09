@@ -1,9 +1,9 @@
 ### Olá! Me chamo Edilson De França 👋
 
 
-- 🔭 Estou em busca da minha primeira oportunidade na area de desevolvimento Front-End
-- Análise e desenvolvimento de sistemas
-- Estou me formando em Análise e desenvolvimento de sistemas, e estou em busca da minha primeira oportunidade de emprego na área de desenvolvimento , no momento estou estudando desenvolvimento web e tenho conhecimento em Html5, Css3 e JavaScript e a biblioteca React, onde faço alguns projetos pessoais para me aperfeiçoa e treina meus conhecimentos ,faço parte do programa Oracle Next Education da Oracle em parceria com a Alura, e nele estou tendo a oportunidade aprende Java e o framework Spring para o desenvolvimento Back-end.
+- 🔭 Estou em busca da minha primeira oportunidade na área de programação
+- Cursando Análise e desenvolvimento de sistemas
+- Estou me formando em Análise e desenvolvimento de sistemas, e estou em busca da minha primeira oportunidade de emprego na área de programação , no momento estou estudando desenvolvimento web e tenho conhecimento em Html5, Css3 e JavaScript e atualmente estou estudando Angular, onde faço alguns projetos pessoais para me aperfeiçoa e treina meus conhecimentos ,fiz parte do programa Oracle Next Education da Oracle em parceria com a Alura, onde eu tive a oportunidade de aprende Java e o framework Spring para o desenvolvimento Back-end.
 
 <div align="center">
   <a href="https://github.com/Edilson-EJ">
@@ -23,21 +23,19 @@
 <img align="center" alt="ts" height="30" width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
  ## Estou aprendendo no momento 🖥️
+
+  <img align="center" alt="Angular" height="30" width="100" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
  
-  <img align="center" alt="Ts" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-   <img align="center" alt="ts" height="30" width="100" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  
-  <img align="center" alt="React" height="30" width="100" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="ts" height="30" width="100" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" alt="ts" height="30" width="100" src=	"https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  <img align="center" alt="ts" height="30" width="100" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="Java" height="30" width="100" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="MySql" height="30" width="100" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+ 
 
 ## Pretendo aprender no futuro 📖
   
   <img align="center" alt="Node" height="30" width="100" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="ts" height="30" width="100" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="ts" height="30" width="100" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img align="center" alt="React" height="30" width="100" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-
+  <img align="center" alt="React" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Tailwind" height="30" width="100" src="ttps://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img align="right" alt="" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/STwJ5LwAN05bO/giphy.gif">
 </div>
   
@@ -53,4 +51,4 @@
 
 </div>
   
-![Snake animation](https://github.com/Edilson-EJ/Edilson-EJ/blob/output/github-contribution-grid-snake.svg)
+
