@@ -3,7 +3,7 @@
 
 - 🔭 Estou em busca da minha primeira oportunidade na área de programação
 - Cursando Análise e desenvolvimento de sistemas
-- Estou me formando em Análise e desenvolvimento de sistemas, e estou em busca da minha primeira oportunidade de emprego na área de programação , no momento estou estudando desenvolvimento web e tenho conhecimento em Html5, Css3 e JavaScript e atualmente estou estudando Angular, onde faço alguns projetos pessoais para me aperfeiçoa e treina meus conhecimentos ,fiz parte do programa Oracle Next Education da Oracle em parceria com a Alura, onde eu tive a oportunidade de aprende Java e o framework Spring para o desenvolvimento Back-end.
+- Estou me formando em Análise e desenvolvimento de sistemas, e estou em busca da minha primeira oportunidade de emprego na área de programação , no momento estou estudando desenvolvimento web e tenho conhecimento em Html5, Css3 e JavaScript e atualmente estou estudando Angular, onde faço alguns projetos pessoais para me aperfeiçoa e treina meus conhecimentos ,fiz parte do programa Oracle Next Education da Oracle em parceria com a Alura, onde eu tive a oportunidade de aprende Java para o desenvolvimento Back-end.
 
 <div align="center">
   <a href="https://github.com/Edilson-EJ">
