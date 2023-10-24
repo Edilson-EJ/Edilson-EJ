@@ -2,7 +2,8 @@
 
 
 - 🔭 Estou em busca da minha primeira oportunidade na área de programação
-- Cursando Análise e desenvolvimento de sistemas
+- Cursando Análise e desenvolvimento de sistemas - Unicesumar
+- Cursando Redes de Computadores -IFCE campus de Jaguaribe
 - Estou me formando em Análise e desenvolvimento de sistemas, e estou em busca da minha primeira oportunidade de emprego na área de programação , no momento estou estudando desenvolvimento web e tenho conhecimento em Html5, Css3 e JavaScript e atualmente estou estudando Angular, onde faço alguns projetos pessoais para me aperfeiçoa e treina meus conhecimentos ,fiz parte do programa Oracle Next Education da Oracle em parceria com a Alura, onde eu tive a oportunidade de aprende Java para o desenvolvimento Back-end.
 
 
