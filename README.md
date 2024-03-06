@@ -5,6 +5,8 @@
 - Cursando Análise e desenvolvimento de sistemas - Unicesumar 🖥️
 - Cursando Redes de Computadores -IFCE campus de Jaguaribe 💻
 - AlumniONE Oracle - java e Spring Boot
+- Estou também envolvido no programa IART do IFCE, onde atuo como desenvolvedor full stack, utilizando Angular e Django. Este envolvimento me proporciona uma valiosa experiência prática em desenvolvimento web.
+- Estou sempre aberto a novas oportunidades de aprendizado e colaboração. Não hesite em entrar em contato se houver alguma oportunidade de desenvolvimento profissional ou projetos interessantes.
 
 
 <div style="display: inline_block"><br>
