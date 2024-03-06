@@ -1,10 +1,10 @@
 ### Olá! Me chamo Edilson De França 👋
 
 
-- 🔭 Estou em busca da minha primeira oportunidade na área de programação
-- Cursando Análise e desenvolvimento de sistemas - Unicesumar
-- Cursando Redes de Computadores -IFCE campus de Jaguaribe
-- Estou me formando em Análise e desenvolvimento de sistemas, e estou em busca da minha primeira oportunidade de emprego na área de programação , no momento estou estudando desenvolvimento web e tenho conhecimento em Html5, Css3 e JavaScript e atualmente estou estudando Angular, onde faço alguns projetos pessoais para me aperfeiçoa e treina meus conhecimentos ,fiz parte do programa Oracle Next Education da Oracle em parceria com a Alura, onde eu tive a oportunidade de aprende Java para o desenvolvimento Back-end.
+- Estagiário da Compass Uol - Cloud & DevSecOps 👨🏼‍💻
+- Cursando Análise e desenvolvimento de sistemas - Unicesumar 🖥️
+- Cursando Redes de Computadores -IFCE campus de Jaguaribe 💻
+- AlumniONE Oracle - java e Spring Boot
 
 
 <div style="display: inline_block"><br>
@@ -22,7 +22,7 @@
   <img align="center" alt="amazon aws" height="30" width="100" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img align="center" alt="ts" height="30" width="100" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="django" height="30" width="100" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
- 
+  <img align="center" alt="sass" height="30" width="100" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 
 ## Pretendo aprender no futuro 📖
   
