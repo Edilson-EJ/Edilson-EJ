@@ -4,21 +4,21 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Edilson+De+França!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Ceará </h3>
+<h3 align="center">A passionate software developer from Ceará</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 Cursando **Análise e desenvolvimento de sistemas - Unicesumar** 🖥️
- 
- 🌱 Cursando **Redes de Computadores -IFCE campus de Jaguaribe** 💻
+ 🔭 Cursando Análise e Desenvolvimento de Sistemas - Unicesumar 🖥️
 
-💬 Sou um desenvolvedor de software focado em **Angular e C# .Net**
+🌱 Cursando Redes de Computadores - IFCE, Campus Jaguaribe 💻
 
-🧑‍💻 Estou também envolvido no programa IART do IFCE, onde atuo como desenvolvedor full stack, utilizando Angular e Django. Este envolvimento me proporciona uma valiosa experiência prática em desenvolvimento web.
+💬 Desenvolvedor de Software focado em Angular e C# .NET
 
-⚡ Estou sempre aberto a novas oportunidades de aprendizado e colaboração. Não hesite em entrar em contato se houver alguma oportunidade de desenvolvimento profissional ou projetos interessantes.
+🧑‍💻 Também atuo como desenvolvedor full stack no programa IART do IFCE, utilizando Angular e Django, o que me proporciona uma valiosa experiência prática em desenvolvimento web.
+
+⚡ Sempre aberto a novas oportunidades de aprendizado e colaboração. Sinta-se à vontade para entrar em contato caso haja projetos interessantes ou oportunidades de desenvolvimento profissional.
 
 </div>
  
