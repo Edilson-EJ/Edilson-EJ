@@ -40,7 +40,8 @@
 
 ### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=sqlserver,mysql" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 
 ### 🌐 Front-end
 
@@ -54,16 +55,7 @@
 
 <br/>
 
-<h2 align="center">📊 GitHub Stats</h2>
 
-<br/>
-
-<div align="center">
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=Edilson-EJ&count_private=true&show_icons=true&theme=transparent&rank_icon=github&border_radius=10" />
-    <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edilson-EJ&layout=compact&theme=transparent&border_radius=10" />
-</div>
-
-<br/>
 
 <h2 align="center">📫 Connect with me</h2>
 
